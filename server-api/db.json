@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "28126fa4-d506-47e9-83ae-e70401882f2a",
+      "name": "Yoni Mor",
+      "email": "Yoni@outlook.com"
+    },
+    {
+      "id": "ecae89ff-56c5-4626-b679-762a2ba97ff1",
+      "name": "Shlomi",
+      "email": "Shlomi@walla.com"
+    },
+    {
+      "id": "7582712a-6b17-4eb8-a639-fc51baa87d47",
+      "name": "ilay asis",
+      "email": "ilayasis2003@gmail.com"
+    }
+  ]
+}
